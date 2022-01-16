@@ -1,0 +1,7 @@
+.main-colo{
+    background: linear-gradient( 90deg, #00C1FE 19.39%, #FAFFC1 96.69%);
+}
+.form-main{
+    border-radius: 30px;
+    max-width: 475px;
+}
