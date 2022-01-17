@@ -27,10 +27,16 @@
     text-decoration: auto;
     cursor: pointer;
     list-style: none;
+    
 }
 .list1 ul li a {
     text-decoration: none;
 }
 .list1 ul li {
     background-color: #FAFFC1;
+}
+.cl{
+    position: absolute;
+     bottom: 15px; 
+     max-width: 270px;
 }
