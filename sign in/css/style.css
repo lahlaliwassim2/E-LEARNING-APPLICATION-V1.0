@@ -22,6 +22,10 @@
 .cls4{
     background-image: linear-gradient(110.42deg, #00C1FE 18.27%, #FAFFC1 91.84%);
 }
+.btnA   a{
+    text-decoration: none;
+    color: #F0F9FF;
+}
 .list1{
     max-width: 190px;
     text-decoration: auto;
