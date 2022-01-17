@@ -52,3 +52,9 @@
 .imgg img {
     width: 100px;
 }
+@media (max-width: 576px)
+{
+    .clm3{
+        display: none;
+    }
+}
