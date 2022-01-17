@@ -31,3 +31,6 @@
 .list1 ul li a {
     text-decoration: none;
 }
+.list1 ul li {
+    background-color: #FAFFC1;
+}
