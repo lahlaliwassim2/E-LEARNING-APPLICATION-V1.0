@@ -40,3 +40,15 @@
      bottom: 15px; 
      max-width: 270px;
 }
+.img{
+    width: 100px;
+     height: 100px;
+}
+.lgt{
+    position: absolute;
+     bottom: 15px;
+      max-width: 270px;
+}
+.btn{
+    btn btn-primary text-white form-control;
+}
