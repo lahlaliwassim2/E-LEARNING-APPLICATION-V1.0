@@ -10,3 +10,24 @@
     max-width: 270px;
     background-color :#FAFFC1;
 }
+.cls1{
+    background-color: #F0F9FF;;
+}
+.cls2{
+    background-color:  #FEF6FB;
+}
+.cls3{
+    background-color:  #FEFBEC;
+}
+.cls4{
+    background-image: linear-gradient(110.42deg, #00C1FE 18.27%, #FAFFC1 91.84%);
+}
+.list1{
+    max-width: 190px;
+    text-decoration: auto;
+    cursor: pointer;
+    list-style: none;
+}
+.list1 ul li a {
+    text-decoration: none;
+}
